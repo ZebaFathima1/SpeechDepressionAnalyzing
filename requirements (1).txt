@@ -1,5 +1,5 @@
 streamlit
 google-generativeai
-soundfile
 streamlit-audiorecorder
+soundfile
 
