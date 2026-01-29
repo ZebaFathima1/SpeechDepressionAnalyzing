@@ -7,7 +7,7 @@ warnings.filterwarnings("ignore")
 # ===============================
 # GEMINI API KEY (EASY WAY)
 # ===============================
-genai.configure(api_key="PASTE_YOUR_GEMINI_API_KEY_HERE")
+genai.configure(api_key="AIzaSyAQdhOuvXPOO_dCnGgXJdlOT-M3Zz4G9mA")
 
 model = genai.GenerativeModel("gemini-1.5-pro")
 
